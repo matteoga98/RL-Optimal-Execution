@@ -13,6 +13,6 @@ test_theoretical_costs gives an estimation of how much we expect to pay with the
 
 plot_dati.py simply plots a simulated price
 
-brownian.py and brownian_drift.py are the codes that have been used to simulate the data 
+brownian.py and brownian_drift.py are the codes that have been used to generate the simulated data
 
 In order to reproduce our experiments, brownian.py and brownian_drift.py have to be used to simulate 6000 training files and 1000 testing files in the directory /data_X/brownian_train and /data_X/brownian_test where X=martingale, drift_down_low, drift_up_down.
