@@ -1,6 +1,7 @@
 # RL-Optimal-Execution
 
-All the tests.py train and test an agent over certain data:
+This is the code used as part of a master thesis work to study the potential of a RL agent in tackling Optimal Trade Execution.
+Our work follows the approach proposed in https://arxiv.org/abs/1812.06600 by Ning et al. 
 
 test_p.py implements inventory, time, quadratic variation and Price as features and trains the agent over martingale data 
 
